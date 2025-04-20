@@ -2,6 +2,10 @@
 
 Companion notebooks to my talk: The Rise of the SEO Data Scientist
 
+## Talk intro
+An introduction/preview of the talk
+https://www.youtube.com/watch?v=tbYZqLUSsek&t=1s
+
 ## Absolute beginner, start here:
 
 Install Python, and few packages, and get started with crawling a website, all in 8 minutes:
